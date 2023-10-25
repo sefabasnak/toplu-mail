@@ -6,7 +6,7 @@
 Bu uygulama, kullanıcıya tekil veya toplu e-postaları gönderme seçeneği sunar.
 
 ``
-dist/./toplu-mail
+toplu-mail.py
 ``
 ### Tekil Mail Gönderme
 
