@@ -48,7 +48,7 @@ toplu-mail.py
 This application allows the user to send individual or bulk emails.
 
 ```
-dist/./toplu-mail
+toplu-mail.py
 ```
 
 ### Sending Individual Emails
