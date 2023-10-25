@@ -8,6 +8,9 @@ Bu uygulama, kullanıcıya tekil veya toplu e-postaları gönderme seçeneği su
 ```
 toplu-mail.py
 ```
+![Tutorial](https://github.com/sefabasnak/toplu-mail/blob/main/tutorial.gif)
+
+
 ### Tekil Mail Gönderme
 
 
