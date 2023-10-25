@@ -5,9 +5,9 @@
 
 Bu uygulama, kullanıcıya tekil veya toplu e-postaları gönderme seçeneği sunar.
 
-``
+```
 toplu-mail.py
-``
+```
 ### Tekil Mail Gönderme
 
 
