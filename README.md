@@ -6,7 +6,7 @@
 Bu uygulama, kullanıcıya tekil veya toplu e-postaları gönderme seçeneği sunar.
 
 ``
-./toplu-mail
+dist/./toplu-mail
 ``
 ### Tekil Mail Gönderme
 
