@@ -53,6 +53,8 @@ This application allows the user to send individual or bulk emails.
 ```
 toplu-mail.py
 ```
+![Tutorial](https://github.com/sefabasnak/toplu-mail/blob/main/tutorial.gif)
+
 
 ### Sending Individual Emails
 
